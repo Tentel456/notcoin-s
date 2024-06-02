@@ -4,15 +4,3 @@
 build
 
 node_modules
-
-**/*.png
-**/*.jpeg
-**/*.wav
-**/*.mp3
-**/*.mp4
-**/*.oga
-**/*.ogg
-**/*.jpg
-**/*.zip
-**/*.log
-**/*.lock
